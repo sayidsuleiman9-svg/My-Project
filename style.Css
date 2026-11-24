@@ -1,0 +1,11 @@
+body{
+    background: rgb(106, 93, 177);
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 2.5rem;
+}
+p{
+    font-size: larger;
+}
